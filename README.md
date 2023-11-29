@@ -53,6 +53,9 @@
 
 配置好后点击右上角启动项目
 
-若出现关于数据库的错误请输入下面的语句来进行修复
+![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/5e807d72-b7c3-4294-af65-e09ab77d5dff)
+
+若出现关于数据库的错误请修改上图中选中的区域，并改为下面的语句来进行修复
 
     jdbc:mysql://127.0.0.1/apsfc?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai
+    
