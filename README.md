@@ -12,11 +12,11 @@
 *  src/java/com/example/meal_ordering_system目录是后端代码
 *  src/webapp目录是前端代码
 ### 部署运行
-> 注意在安装完各个软件或依赖后要配置环境变量
+注意在安装完各个软件或依赖后要配置环境变量
 (1) 安装 jdk 1.8
 (2) 安装专业版 IntelliJ IDEA 2023.2.5
 (3) 安装mysql 5.7数据库
 (4) 安装Navicat Premium 12，破解后打开并创建数据库，命名为apsfc
-> 创建数据库方法：
-> ![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/85399c05-cdb1-4a5b-b481-6d7ffe4bc6bb)
-> 从navicat中向数据库中导入apsfc.sql文件（该文件在主目录下）
+*  创建数据库方法：
+*  ![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/85399c05-cdb1-4a5b-b481-6d7ffe4bc6bb)
+*  从navicat中向数据库中导入apsfc.sql文件（该文件在主目录下）
