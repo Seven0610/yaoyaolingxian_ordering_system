@@ -12,7 +12,7 @@
 *  src/java/com/example/meal_ordering_system目录是后端代码
 *  src/webapp目录是前端代码
 ### 部署运行
-注意在安装完各个软件或依赖后要配置环境变量
+注意在安装完各个软件或依赖后要配置环境变量！
 
 (1) 安装 jdk 1.8
 
@@ -30,6 +30,23 @@
 
 *  从navicat中向数据库中导入apsfc.sql文件（该文件在主目录下）
 *  在idea中修改数据库配置（所有的username和password都要修改成自己之前数据库中设置的）
-*  
+
 ![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/b90aba51-8669-4055-82d8-449e494a6744)
-(6) 安装Navicat Premium 12，破解后打开并创建数据库，命名为apsfc
+
+(6) 在idea中添加tomcat
+
+![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/5e2827ce-18b9-4d91-82a9-324ac67be0d2)
+
+![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/17424d4a-6d68-4319-9c1f-ee33c676fbd7)
+
+点击local
+
+![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/65029e51-5371-4c67-836d-52eb086af663)
+
+选择yaoyaolingxian_ordering_system:war exploded，然后点击OK
+
+![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/bb5f2638-5572-4e7b-91a0-97fe3d14fde6)
+
+这里只保留一个“/”，否则以后得有些功能会有些影响
+
+点击Apply，然后点击OK
