@@ -1,4 +1,5 @@
-# yaoyaolingxian_ordering_system
-## 123
- 
-# yaoyaolingxian_ordering_system
+# 说明
+管理员界面
+用户名：sa 密码：123
+# 功能介绍
+平台采用B/S结构，后端采用主流的java语言进行开发，前端采用常见的tomcat进行开发。
