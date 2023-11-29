@@ -54,8 +54,4 @@
 配置好后点击右上角启动项目
 
 若出现关于数据库的错误请输入下面的语句来进行修复
-jdbc:mysql://127.0.0.1/apsfc?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai
-
-    <div class="footer">
-        &copy; 2004 Foo Corporation
-    </div>
+    jdbc:mysql://127.0.0.1/apsfc?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai
