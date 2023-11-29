@@ -50,3 +50,12 @@
 这里只保留一个“/”，否则以后得有些功能会有些影响
 
 点击Apply，然后点击OK
+
+配置好后点击右上角启动项目
+
+若出现关于数据库的错误请输入下面的语句来进行修复
+jdbc:mysql://127.0.0.1/apsfc?autoReconnect=true&amp;useUnicode=true&amp;characterEncoding=utf8&amp;useSSL=false&amp;serverTimezone=Asia/Shanghai
+
+这是一个普通段落：
+​
+    这是一个代码区块。
