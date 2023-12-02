@@ -47,7 +47,7 @@
 
 ![image](https://github.com/Seven0610/yaoyaolingxian_ordering_system/assets/131602007/bb5f2638-5572-4e7b-91a0-97fe3d14fde6)
 
-这里只保留一个“/”，否则以后得有些功能会有些影响
+这里只保留一个“/”，否则后续功能会受影响
 
 点击Apply，然后点击OK
 
